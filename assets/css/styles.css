@@ -54,6 +54,8 @@ a.btn-cta {
   font-weight: bold;
   font-size: 16px;
   padding: 10px 30px;
+  margin: 4px;
+  min-width: 150px;
 }
 .btn-primary {
   background: #40babd;
